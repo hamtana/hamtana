@@ -1,65 +1,79 @@
-# About Me
+# 👋 About Me
 
-Hi my name is Hamish Phillips, I am recent graduate from University of Otago with a Bachelor of Arts & Science, majoring in Software Engineering & Music. 
-Currently I work as an Administrator for Wellington Regional Hospital, and as an IT contractor trading under Phillips Music & Tech. 
+Hi, I’m **Hamish Phillips** — a recent graduate from the **University of Otago**, where I completed a **Bachelor of Arts & Science**, majoring in **Software Engineering** and **Music**.
 
-## Recently completed projects
+I currently work as an **Administrator at Wellington Regional Hospital** and as an **IT contractor** operating under **Phillips Music & Tech**, where I support clients with web management, SEO optimisation, automation tools, and IT troubleshooting.
 
-1. [Monthly File Copier](https://github.com/hamtana/MonthlyFileCopier)
+---
 
-**Description:**
-While working with the Nursing Bureau at Wellington Hospital, I noticed the team were manuallly copying daily spreadsheets and renaming the files for each day, month and year. Identifying this an area for improvement. I designed this file copier, which takes in input for month and year, with three seperate options catering for three seperate use cases. 
+## 🛠️ Recently Completed Projects
 
-**Technologies used**
-✔️ Java
+### 1. [Monthly File Copier](https://github.com/hamtana/MonthlyFileCopier)
+A simple yet impactful automation tool created after noticing the manual workload within the Nursing Bureau at Wellington Hospital. Staff were manually copying and renaming daily spreadsheets — so I built an application to automate the process. Users can input the month and year and choose from three tailored copying options.
 
-2. [Email Verifier](https://github.com/hamtana/EmailVerifier)
+**Tech Used:** ✔️ Java
 
-**Description:**
-Within my contracting work, I often need to provide links for email based content. I often need to verify these links are not broken before the email is sent. Instead of completing this task manually, I designed a python script, which takes a .eml file as input, checks every direct link in the email and outputs the response code.
+---
 
-**Technologies used:**
-✔️ Python
+### 2. [Email Verifier](https://github.com/hamtana/EmailVerifier)
+As part of my contract work, I often send emails containing multiple links. To avoid broken or outdated URLs, I developed a Python script that parses a `.eml` file, extracts every link, and returns the HTTP response codes — saving time and ensuring reliability.
 
-3. [Review Engine](https://github.com/hamtana/ReviewEngine)
+**Tech Used:** ✔️ Python
 
-**Description:**
-A lightweight review-collection system designed to capture customer feedback before it reaches public platforms. When a user submits a review below three stars, the system automatically prompts them to send an email instead. This allows the business to address issues directly and privately, improving customer experience while reducing negative public reviews.
+---
 
-**Technologies used:**
-✔️ Docker
-✔️ React.js
-✔️ Express.js
-✔️ TailwindCSS
+### 3. [Review Engine](https://github.com/hamtana/ReviewEngine)
+A lightweight feedback system designed to help businesses receive and act on low-star reviews privately. If a user submits a rating below three stars, they’re prompted to send an email instead — reducing negative public reviews while improving customer experience.
 
+**Tech Used:**  
+✔️ Docker · ✔️ React.js · ✔️ Express.js · ✔️ TailwindCSS
 
-## Currently working on...
+---
 
-1. [Travel Tracker](https://github.com/hamtana/TravelTracker)
+## 🚧 Currently Working On
 
-**Description:**
-I idenfitied that spreadsheets were being used to keep track of patient travel across the country for a variety of appointments. This system seeks to use a centralised database to incorporate data and access it in a way that is more accessible, timely and accurate.
+### 1. [Travel Tracker](https://github.com/hamtana/TravelTracker)
+A much-needed replacement for spreadsheet-based patient travel tracking. This system uses a centralised database to make travel data more accessible, reliable, and efficient for staff across the country.
 
-**Technologies used:**
+**Technologies**
 
-Purpose | Technology
-Backend | Java Sprinboot
-Database | PostgreSQL
-Build Tool (Java) | Gradle
-CSS | TailwindCSS
-API Tool | OpenAPI
+| Purpose     | Technology    |
+|-------------|---------------|
+| Backend     | Java Spring Boot |
+| Database    | PostgreSQL    |
+| Build Tool  | Gradle        |
+| CSS         | TailwindCSS   |
+| API Tool    | OpenAPI       |
 
+---
 
-## Currently Learning...
+### 2. [Uniform Tracker](https://github.com/hamtana/Uniform-Tracker)
+Developed for the Wellington Regional Hospital Nursing Bureau, this tool manages staff uniforms and procurement across multiple wards, reducing manual admin and improving accuracy.
 
-- React
-- Python
-- TailwindCSS
+**Technologies**
 
+| Purpose     | Technology    |
+|-------------|---------------|
+| Backend     | Java Spring Boot |
+| Database    | PostgreSQL    |
+| Build Tool  | Gradle        |
+| CSS         | TailwindCSS   |
 
-## How to reach me ...
+---
 
-Email me at hamish@phillipsmusictech.co.nz or send me a message on my website.
+## 📚 Currently Learning
+
+- React  
+- Python  
+- TailwindCSS  
+
+---
+
+## 📬 Get in Touch
+
+You can reach me at **hamish@phillipsmusictech.co.nz**,  
+or send a message via my website.
+
 
 
 
