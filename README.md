@@ -2,27 +2,22 @@
 
 Hi, I’m **Hamish Phillips** — a recent graduate from the **University of Otago**, where I completed a **Bachelor of Arts & Science**, majoring in **Software Engineering** and **Music**.
 
-I currently work as an **Administrator at Wellington Regional Hospital** and as an **IT contractor** operating under **Phillips Music & Tech**, where I support clients with web management, SEO optimisation, automation tools, and IT troubleshooting.
+I currently work as an **Administrator at Wellington Regional Hospital** and as an **IT contractor** operating under **Phillips Music & Tech**, where I support clients with software development, web management, SEO optimisation, automation tools, and IT troubleshooting.
 
 ---
 
 ## 🛠️ Recently Completed Projects
 
-### 1. [Monthly File Copier](https://github.com/hamtana/MonthlyFileCopier)
-A simple yet impactful automation tool created after noticing the manual workload within the Nursing Bureau at Wellington Hospital. Staff were manually copying and renaming daily spreadsheets — so I built an application to automate the process. Users can input the month and year and choose from three tailored copying options.
+### 1. [Southern Paediatrics](https://southernpaediatrics.co.nz)
+Designed and built a website for Southern Paediatrics Ltd, a private specialist healthcare service operating across Dunedin and Central Otago, New Zealand. This project strengthened my practical knowledge of CSS and the Tailwind framework, particularly in building clean, responsive layouts.
 
-**Tech Used:** ✔️ Java
-
----
-
-### 2. [Email Verifier](https://github.com/hamtana/EmailVerifier)
-As part of my contract work, I often send emails containing multiple links. To avoid broken or outdated URLs, I developed a Python script that parses a `.eml` file, extracts every link, and returns the HTTP response codes — saving time and ensuring reliability.
-
-**Tech Used:** ✔️ Python
+**Tech Used:**  
+✔️ Next.Js · ✔️ TailwindCSS · ✔️ Vercel
 
 ---
 
-### 3. [Review Engine](https://github.com/hamtana/ReviewEngine)
+
+### 2. [Review Engine](https://github.com/hamtana/ReviewEngine)
 A lightweight feedback system designed to help businesses receive and act on low-star reviews privately. If a user submits a rating below three stars, they’re prompted to send an email instead — reducing negative public reviews while improving customer experience.
 
 **Tech Used:**  
@@ -30,7 +25,34 @@ A lightweight feedback system designed to help businesses receive and act on low
 
 ---
 
+### 3. Monthly File Copier
+A simple yet impactful automation tool created after noticing the manual workload within the Nursing Bureau at Wellington Hospital. Staff were manually copying and renaming daily spreadsheets — so I built an application to automate the process. Users can input the month and year and choose from four tailored copying options.
+
+**Tech Used:** ✔️ Java
+
+---
+
+### 4. [Email Verifier](https://github.com/hamtana/EmailVerifier)
+As part of my contract work, I often send emails containing multiple links. To avoid broken or outdated URLs, I developed a Python script that parses a `.eml` file, extracts every link, and returns the HTTP response codes — saving time and ensuring reliability.
+
+**Tech Used:** ✔️ Python
+
+---
+
 ## 🚧 Currently Working On
+
+### 1. [Address Verifier](https://github.com/hamtana/AddressVerifier)
+Working on an API that connects with LINZ data relating to addresses across New Zealand. This program is designed to verify an address by returning JSON formatted address data. The data returned can be used pre-populate fields, address, suburb and city. 
+
+**Technologies**
+
+| Purpose     | Technology    |
+|-------------|---------------|
+| API     | Java Spring Boot |
+| Deployment | Docker/Kubernetes |
+
+
+---
 
 ### 1. [Travel Tracker](https://github.com/hamtana/TravelTracker)
 A much-needed replacement for spreadsheet-based patient travel tracking. This system uses a centralised database to make travel data more accessible, reliable, and efficient for staff across the country.
@@ -65,7 +87,9 @@ Developed for the Wellington Regional Hospital Nursing Bureau, this tool manages
 
 - React  
 - Python  
-- TailwindCSS  
+- TailwindCSS
+- NextJs
+- Docker deployment with Kubernetes
 
 ---
 
