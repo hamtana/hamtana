@@ -42,7 +42,7 @@ As part of my contract work, I often send emails containing multiple links. To a
 ## 🚧 Currently Working On
 
 ### 1. [Address Verifier](https://github.com/hamtana/AddressVerifier)
-Working on an API that connects with LINZ data relating to addresses across New Zealand. This program is designed to verify an address by returning JSON formatted address data. The data returned can be used pre-populate fields, address, suburb and city. 
+Developing an API that integrates with LINZ (Land Information New Zealand) data to verify addresses across New Zealand. When queried, the API returns JSON-formatted address data including street address, suburb, and city, which can be used to pre-populate form fields.
 
 **Technologies**
 
