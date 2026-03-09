@@ -28,7 +28,7 @@ A lightweight feedback system designed to help businesses receive and act on low
 ---
 
 ### 3. Monthly File Copier
-A simple yet impactful automation tool created after noticing the manual workload within the Nursing Bureau at Wellington Hospital. Staff were manually copying and renaming daily spreadsheets — so I built an application to automate the process. Users can input the month and year and choose from four tailored copying options.
+A simple yet impactful automation tool created after noticing the manual workload for a Health Provider. Staff were manually copying and renaming daily spreadsheets — so I built an application to automate the process. Users can input the month and year and choose from four tailored copying options.
 
 **Tech Used:** ✔️ Java
 
@@ -72,7 +72,7 @@ A much-needed replacement for spreadsheet-based patient travel tracking. This sy
 ---
 
 ### 2. [Uniform Tracker](https://github.com/hamtana/Uniform-Tracker)
-Developed for the Wellington Regional Hospital Nursing Bureau, this tool manages staff uniforms and procurement across multiple wards, reducing manual admin and improving accuracy.
+Developed for a Health Provider, this tool manages staff uniforms and procurement across multiple wards, reducing manual admin and improving accuracy.
 
 **Technologies**
 
