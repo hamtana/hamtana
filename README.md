@@ -2,7 +2,7 @@
 
 Hi, I’m **Hamish Phillips** — a recent graduate from the **University of Otago**, where I completed a **Bachelor of Arts & Science**, majoring in **Software Engineering** and **Music**.
 
-I currently work as an **Administrator at Wellington Regional Hospital** and as an **IT contractor** operating under **Phillips Music & Tech**, where I support clients with software development, web management, SEO optimisation, automation tools, and IT troubleshooting.
+I currently work as an **Administrator at Wellington Regional Hospital** and as an **Software Engineer** for business **Phillips Music & Tech**, where I support clients with software development, web management, SEO optimisation, automation tools, and IT troubleshooting.
 
 View my CV here: [HPhillips CV](https://hamtana.github.io/HPhillips-CV/)
 
