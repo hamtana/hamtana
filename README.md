@@ -18,15 +18,15 @@ I built EV Autos, a full-stack website for auto workshops, combining public mark
 
 Here's the stack behind it:
 
-- TanStack Start — full-stack React architecture with type-safe server functions 
+- TanStack Start — full-stack React architecture with type-safe server functions
 
 - TanStack Router — file-based routing with public, auth, and protected route groups
 
-- TanStack Query — caching, fetching, and cache invalidation for live data 
+- TanStack Query — caching, fetching, and cache invalidation for live data
 
-- TanStack Form + Zod — form state management with schema-based validation 
+- TanStack Form + Zod — form state management with schema-based validation
 
-- Clerk — authentication guarding the admin dashboard 🐘 Neon PostgreSQL + 
+- Clerk — authentication guarding the admin dashboard 🐘 Neon PostgreSQL +
 
 - Drizzle ORM — typed, serverless database access
 
@@ -35,9 +35,9 @@ Here's the stack behind it:
 What it does:
 
 - Customers can book appointments, with server-side re-validation of availability and blocked dates to avoid race conditions
--  Enquiry and feedback forms route straight to admin notifications 
--  Admins get a dashboard to view, cancel, and manage bookings, plus block/unblock dates 
--  Every domain operation (bookings, enquiries, feedback) is implemented as a TanStack Start server function, called directly from the UI for end-to-end type safety
+- Enquiry and feedback forms route straight to admin notifications
+- Admins get a dashboard to view, cancel, and manage bookings, plus block/unblock dates
+- Every domain operation (bookings, enquiries, feedback) is implemented as a TanStack Start server function, called directly from the UI for end-to-end type safety
 
 The most interesting part was designing the booking flow: client-side date state gets enriched with query data (fully booked + blocked dates), but the real check happens server-side to keep things consistent under concurrent bookings.
 
@@ -79,7 +79,22 @@ As part of my contract work, I often send emails containing multiple links. To a
 
 ## 🚧 Currently Working On
 
-### 1. [Address Verifier](https://github.com/hamtana/AddressVerifier)
+### 1. [Emily Alice Band Website](https://github.com/hamtana)
+
+Developing a website for a local Wellington band, Emily Alice. The site will feature pages for media, music, shows, and contact information, along with a protected admin dashboard for managing content. The project is still in the early stages, but I’m excited to apply my skills to create a visually appealing and functional site.
+
+**Technologies Used:**
+
+| Purpose    | Technology     |
+| ---------- | -------------- |
+| Frontend   | Tanstack Start |
+| Backend    | Tanstack Start |
+| Database   | PostgreSQL     |
+| Deployment | Vercel         |
+
+---
+
+### 2. [Address Verifier](https://github.com/hamtana/AddressVerifier)
 
 Developing an API that integrates with LINZ (Land Information New Zealand) data to verify addresses across New Zealand. When queried, the API returns JSON-formatted address data including street address, suburb, and city, which can be used to pre-populate form fields.
 
@@ -90,9 +105,7 @@ Developing an API that integrates with LINZ (Land Information New Zealand) data 
 | API        | Java Spring Boot  |
 | Deployment | Docker/Kubernetes |
 
----
-
-### 1. [Travel Tracker](https://github.com/hamtana/TravelTracker)
+<!-- ### 2. [Travel Tracker](https://github.com/hamtana/TravelTracker)
 
 A much-needed replacement for spreadsheet-based patient travel tracking. This system uses a centralised database to make travel data more accessible, reliable, and efficient for staff across the country.
 
@@ -104,12 +117,12 @@ A much-needed replacement for spreadsheet-based patient travel tracking. This sy
 | Database   | PostgreSQL       |
 | Build Tool | Gradle           |
 | CSS        | TailwindCSS      |
-| API Tool   | OpenAPI          |
+| API Tool   | OpenAPI          | -->
 
----
-
-### 2. [Uniform Tracker](https://github.com/hamtana/Uniform-Tracker)
-
+<!-- --- -->
+<!--
+### 2. [Uniform Tracker](https://github.com/hamtana/Uniform-Tracker) -->
+<!--
 Developed for a Health Provider, this tool manages staff uniforms and procurement across multiple wards, reducing manual admin and improving accuracy.
 
 **Technologies**
@@ -119,7 +132,7 @@ Developed for a Health Provider, this tool manages staff uniforms and procuremen
 | Backend    | Java Spring Boot |
 | Database   | PostgreSQL       |
 | Build Tool | Gradle           |
-| CSS        | TailwindCSS      |
+| CSS        | TailwindCSS      | -->
 
 ---
 
