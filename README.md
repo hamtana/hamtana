@@ -43,8 +43,6 @@ The most interesting part was designing the booking flow: client-side date state
 
 This project pushed me deeper into the TanStack ecosystem (Start, Router, Query, Form working together) and reinforced how much a well-typed server function layer simplifies full-stack development.
 
-#WebDevelopment #ReactJS #TanStack #TypeScript #FullStackDevelopment #PostgreSQL #SoftwareEngineering
-
 ### 2. [Southern Paediatrics](https://southernpaediatrics.co.nz)
 
 Designed and built a website for Southern Paediatrics Ltd, a private specialist healthcare service operating across Dunedin and Central Otago, New Zealand. This project strengthened my practical knowledge of CSS and the Tailwind framework, particularly in building clean, responsive layouts.
