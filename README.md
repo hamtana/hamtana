@@ -79,7 +79,11 @@ As part of my contract work, I often send emails containing multiple links. To a
 
 ## 🚧 Currently Working On
 
-### 1. [Emily Alice Band Website](https://github.com/hamtana)
+### 1. Nichol's Website
+
+Developing a website for a local Otago and Southland business, Nichol's. The site is being built using Wordpress, WooCommerce and features a customised theme to match the business's branding. The project is still in it's early stages, and I am excited to share updates as the site progresses.
+
+### 2. [Emily Alice Band Website](https://github.com/hamtana)
 
 Developing a website for a local Wellington band, Emily Alice. The site will feature pages for media, music, shows, and contact information, along with a protected admin dashboard for managing content. The project is still in the early stages, but I’m excited to apply my skills to create a visually appealing and functional site.
 
@@ -94,7 +98,7 @@ Developing a website for a local Wellington band, Emily Alice. The site will fea
 
 ---
 
-### 2. [Address Verifier](https://github.com/hamtana/AddressVerifier)
+### 3. [Address Verifier](https://github.com/hamtana/AddressVerifier)
 
 Developing an API that integrates with LINZ (Land Information New Zealand) data to verify addresses across New Zealand. When queried, the API returns JSON-formatted address data including street address, suburb, and city, which can be used to pre-populate form fields.
 
