@@ -143,10 +143,17 @@ Developed for a Health Provider, this tool manages staff uniforms and procuremen
 ## 📚 Currently Learning
 
 - React
+- Dev Ops through Boot.Dev
 - Python
-- TailwindCSS
+- Tailwind
 - NextJs
 - Docker deployment with Kubernetes
+
+## Certificates
+
+Here are my recently completed project certificates.
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0)
 
 ---
 
