@@ -158,8 +158,8 @@ Here are my recently completed project certificates.
 
 | Course    | Certificate        |
 | ---------- | ----------------- |
-| Learn Linux Certificate        | [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0) |
-| Introduction to Python Course | [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/373e9c88-e4f3-4cad-a251-056042da3a29.jpeg?v=1789874729)](https://www.boot.dev/certificates/373e9c88-e4f3-4cad-a251-056042da3a29) |
+| Learn Linux     | [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0) |
+| Introduction to Python | [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/373e9c88-e4f3-4cad-a251-056042da3a29.jpeg?v=1789874729)](https://www.boot.dev/certificates/373e9c88-e4f3-4cad-a251-056042da3a29) |
 
 
 
