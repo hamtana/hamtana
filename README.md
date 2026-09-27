@@ -160,7 +160,8 @@ Here are my recently completed project certificates.
 | ---------- | ----------------- |
 | Learn Linux     | [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0) |
 | Introduction to Python | [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/373e9c88-e4f3-4cad-a251-056042da3a29.jpeg?v=1789874729)](https://www.boot.dev/certificates/373e9c88-e4f3-4cad-a251-056042da3a29) |
-| Bookbot Project | [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4.jpeg?v=1790469899)](https://www.boot.dev/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4) |
+| Bookbot Project | [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4.jpeg?v=1790469899)](https://www.boot.dev/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4) | 
+| Learn Git | [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a437df56-a5be-40c6-a268-a751f9923bd0.jpeg?v=1790549935)](https://www.boot.dev/certificates/a437df56-a5be-40c6-a268-a751f9923bd0) | 
 
 
 
