@@ -43,8 +43,6 @@ The most interesting part was designing the booking flow: client-side date state
 
 This project pushed me deeper into the TanStack ecosystem (Start, Router, Query, Form working together) and reinforced how much a well-typed server function layer simplifies full-stack development.
 
----
-
 ### 2. [Southern Paediatrics](https://southernpaediatrics.co.nz)
 
 Designed and built a website for Southern Paediatrics Ltd, a private specialist healthcare service operating across Dunedin and Central Otago, New Zealand. This project strengthened my practical knowledge of CSS and the Tailwind framework, particularly in building clean, responsive layouts.
@@ -85,7 +83,11 @@ As part of my contract work, I often send emails containing multiple links. To a
 
 Developing a website for a local Otago and Southland business, Nichol's. The site is being built using Wordpress, WooCommerce and features a customised theme to match the business's branding. The project is still in it's early stages, and I am excited to share updates as the site progresses.
 
-### 2. [Emily Alice Band Website](https://github.com/hamtana)
+### 2. Sportsfield
+
+Developing Sports Field helps people find local sport to watch. Browse fixtures on a map, filter by sport, level, date and location, and open shareable game pages. Clubs and schools can list games, while registered members can report games, follow teams and venues, save favourites and receive alerts. The app is currently focused on Wellington and the Hutt in New Zealand, with support for discovering games in other regions and countries.
+
+### 3. [Emily Alice Band Website](https://github.com/hamtana)
 
 Developing a website for a local Wellington band, Emily Alice. The site will feature pages for media, music, shows, and contact information, along with a protected admin dashboard for managing content. The project is still in the early stages, but I’m excited to apply my skills to create a visually appealing and functional site.
 
@@ -100,7 +102,7 @@ Developing a website for a local Wellington band, Emily Alice. The site will fea
 
 ---
 
-### 3. [Address Verifier](https://github.com/hamtana/AddressVerifier)
+### 4. [Address Verifier](https://github.com/hamtana/AddressVerifier)
 
 Developing an API that integrates with LINZ (Land Information New Zealand) data to verify addresses across New Zealand. When queried, the API returns JSON-formatted address data including street address, suburb, and city, which can be used to pre-populate form fields.
 
@@ -151,19 +153,11 @@ Developed for a Health Provider, this tool manages staff uniforms and procuremen
 - NextJs
 - Docker deployment with Kubernetes
 
+---
+
 ## Certificates
 
-Here are my recently completed project certificates.
-
-
-| Course    | Certificate        |
-| ---------- | ----------------- |
-| Learn Linux     | [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0) |
-| Introduction to Python | [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/373e9c88-e4f3-4cad-a251-056042da3a29.jpeg?v=1789874729)](https://www.boot.dev/certificates/373e9c88-e4f3-4cad-a251-056042da3a29) |
-| Bookbot Project | [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4.jpeg?v=1790469899)](https://www.boot.dev/certificates/8c625f9a-6c99-4418-8bda-a43f5a0c72b4) | 
-| Learn Git | [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a437df56-a5be-40c6-a268-a751f9923bd0.jpeg?v=1790549935)](https://www.boot.dev/certificates/a437df56-a5be-40c6-a268-a751f9923bd0) | 
-
-
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0.jpeg?v=1786422463)](https://www.boot.dev/certificates/4bc53529-4940-49d9-82f8-a8222f49c8b0)
 
 ---
 
