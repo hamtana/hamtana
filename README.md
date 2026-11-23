@@ -83,6 +83,8 @@ As part of my contract work, I often send emails containing multiple links. To a
 
 Developing a website for a local Otago and Southland business, Nichol's. The site is being built using Wordpress, WooCommerce and features a customised theme to match the business's branding. The project is still in it's early stages, and I am excited to share updates as the site progresses.
 
+I am also building a custom integration with IdealPOS to retrieve promotions and customers' loyalty points.
+
 ### 2. [Sportsfield](https://sportsfield.co.nz)
 
 Developing Sports Field helps people find local sport to watch. Browse fixtures on a map, filter by sport, level, date and location, and open shareable game pages. Clubs and schools can list games, while registered members can report games, follow teams and venues, save favourites and receive alerts. The app is currently focused on Wellington and the Hutt in New Zealand, with support for discovering games in other regions and countries.
